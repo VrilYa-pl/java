@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42254875-c47a-4cb9-a11a-23f946138386" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="42254875-c47a-4cb9-a11a-23f946138386" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +34,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1978" />
+          <entry key="java" value="1979" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1978" />
+          <entry key="JAVA" value="1979" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -58,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="200">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="26" selection-end-column="19" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -73,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            <state relative-caret-position="350">
+              <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547898325292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547899156889" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -275,12 +268,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 40m 27s.xml">
-      <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 41m 16s.xml">
-      <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 41m 33s.xml">
       <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
     </history-entry>
@@ -303,6 +290,12 @@
       <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 44m 34s.xml">
+      <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 45m 18s.xml">
+      <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_divisionTest - 2019.01.19 at 12h 45m 27s.xml">
       <configuration name="CalculatorTest.divisionTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -390,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="200">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="26" selection-end-column="19" />
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
@@ -403,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        <state relative-caret-position="350">
+          <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
